@@ -1,6 +1,6 @@
 # Electric-Skateboard
 
-##Hardware
+Hardware
 the sensors I used are:
 *Current and Voltage sensor
 *RGB LED indicator that I use to alert low battery or any other use
